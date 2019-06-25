@@ -1,0 +1,25 @@
+.topnav {
+	background-color: #20262E;
+	overflow: hidden;
+}
+
+.topnav a {
+	float: left;
+	color: #000010;
+	text-align: center;
+	padding: 14px 16px;
+}
+
+.topnav a:hover {
+	color: #FFFFFF;
+}
+
+
+.coin{
+	width: 10%;
+	height: 10%
+}
+
+.coin:hover {
+	content:url('coin.gif');
+}
